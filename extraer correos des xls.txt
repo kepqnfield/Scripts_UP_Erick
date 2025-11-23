@@ -42,3 +42,4 @@ Sub BuscarCorreos()
     MsgBox "Búsqueda de correos completada. Los resultados están en la hoja 'Correos Encontrados'.", vbInformation
 End Sub
 
+
